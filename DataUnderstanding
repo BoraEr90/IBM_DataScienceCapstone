@@ -1,0 +1,7 @@
+
+The available dataset provides a collection of many accidents 
+with many details (=features) on the occurrence, e.g. 
+location, wheather, etc.
+It is the aim ofthis project to identify certain correlations 
+of these features with the probability and severity of accidents.
+
