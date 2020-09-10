@@ -1,7 +1,13 @@
 
 The available dataset provides a collection of many accidents 
-with many details (=features) on the occurrence, e.g. 
-location, wheather, etc.
+with many details (=features) on the occurrence.
 It is the aim ofthis project to identify certain correlations 
 of these features with the probability and severity of accidents.
 
+The extensive number of features is collected, with sometimes 
+very high degree of detail. E.g. the type of involved party 
+as well as their direction of movement when the accident occurred, 
+are separated.
+Attention needs to be paid for missing information. Due to 
+non-continuous (categorical) features, it would make sense 
+to exclude samples (rows) with incomplete set of features.
