@@ -1,0 +1,12 @@
+Business Understanding:
+
+It is a matter of fact that death tolls on our roads are increased when the 
+drivers are confronted with non-optimal circumstances regarding wheather and 
+road conditions.
+The goal of this project is to provide a guidline on how to reduce the risk 
+of having a trafic accident.
+In this regard, it will be attempted to predict the risk of having accident 
+under given circumstances.
+The calculated risk can be used as a metrics to decide whether the trip should 
+be delayed or an alternative route or means of transportation should be used.
+
